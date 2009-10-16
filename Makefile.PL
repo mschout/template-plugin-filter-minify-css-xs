@@ -5,8 +5,8 @@ WriteMakefile(
     NAME              => 'Template::Plugin::Filter::Minify::CSS::XS',
     VERSION_FROM      => 'lib/Template/Plugin/Filter/Minify/CSS/XS.pm',
     PREREQ_PM         => {
-        'Template'      => 2.0,
-        'CSS::Minifier' => 0
+        'Template'          => 2.0,
+        'CSS::Minifier::XS' => 0
     },
     ($] >= 5.005 ?
       (ABSTRACT_FROM  => 'lib/Template/Plugin/Filter/Minify/CSS/XS.pm',
