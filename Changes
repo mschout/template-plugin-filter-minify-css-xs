@@ -1,7 +1,10 @@
 Revision history for Perl extension Template::Plugin::Filter::Minify::CSS.
 
+0.92  Tue Oct 26 2009
+    - added signature test
+
 0.91  Fri Oct 16 2009
-    fixed dependency in Makefile.PL CSS::Minifier -> CSS::Minifier::XS
+    - fixed dependency in Makefile.PL CSS::Minifier -> CSS::Minifier::XS
 
 0.90  Thu Oct 15 2009
-    initial version
+    - initial version
