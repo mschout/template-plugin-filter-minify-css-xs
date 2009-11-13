@@ -5,7 +5,7 @@ use strict;
 use base 'Template::Plugin::Filter';
 use CSS::Minifier::XS;
 
-our $VERSION = '0.92';
+our $VERSION = '0.93';
 
 sub init {
     my $self = shift;
