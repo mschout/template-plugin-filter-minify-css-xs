@@ -1,5 +1,8 @@
 Revision history for Perl extension Template::Plugin::Filter::Minify::CSS.
 
+{{$NEXT}}
+    - use Dist::Zilla Raaaaaar!
+
 0.93  Fri Nov 13 2009
     - disable signature test unless TEST_SIGNATURE is enabled, otherwise test
       fails if keyserver is unreachable.
