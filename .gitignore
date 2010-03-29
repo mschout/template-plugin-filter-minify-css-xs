@@ -4,3 +4,5 @@ Makefile
 Makefile.old
 *.swp
 *.bak
+Template-Plugin-Filter-Minify-CSS-XS-*
+\.build
