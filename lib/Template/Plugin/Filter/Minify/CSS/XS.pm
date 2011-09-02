@@ -52,5 +52,5 @@ css code from filtered content during template processing.
 
 =head1 SEE ALSO
 
-L<CSS::Minifer::XS>, L<Template::Plugin::Filter>, L<Template>
+L<CSS::Minifier::XS>, L<Template::Plugin::Filter>, L<Template>
 

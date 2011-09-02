@@ -2,6 +2,7 @@ Revision history for Perl extension Template::Plugin::Filter::Minify::CSS.
 
 {{$NEXT}}
     - use my Dist::Zilla pluginbundle
+    - fix POD typo
 
 0.94      2010-03-29 16:59:22 America/Chicago
     - use Dist::Zilla Raaaaaar!
